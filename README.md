@@ -68,18 +68,18 @@
 
 ---
 
-## 📈 GitHub Performance
+## 📊 GitHub Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tricksxtech&show_icons=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tricksxtech&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tricksxtech&theme=react"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tricksxtech&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tricksxtech&layout=compact&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tricksxtech&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 
 🟢 **Open for Freelance Work**  
 💼 Fiverr-Style Gigs  
-📩 DM or Email Anytime  
+📩 DM or Email Anytime  : tricksxtech@gmail.com
 
 <p align="center">
   ⭐ <b>Star my repos if you like my work</b>  
