@@ -21,7 +21,7 @@
 
 ---
 
-## 💼 Freelance Services (Fiverr Style)
+## 💼 Freelance Services
 
 🎯 **I help clients turn ideas into working digital products**
 
