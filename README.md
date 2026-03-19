@@ -103,7 +103,7 @@
 ## 🚀 Availability
 
 🟢 **Open for Freelance Work**  
-💼 Fiverr-Style Gigs  
+💼 Open To Work  
 📩 DM or Email Anytime  : tricksxtech@gmail.com
 
 <p align="center">
