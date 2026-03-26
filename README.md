@@ -70,17 +70,17 @@
 
 ## 📊 GitHub Performance
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tricksxtech&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tricksxtech&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tricksxtech&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
