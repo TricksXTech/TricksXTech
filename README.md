@@ -65,8 +65,11 @@
 # 📦 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/TricksXTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=TricksXTech&theme=tokyonight"/>
+  <a href="https://github.com/TricksXTech/badge-combo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=badge-combo&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/TricksXTech/Crypto-ERC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=Crypto-ERC&theme=tokyonight"/>
   </a>
 </p>
 
