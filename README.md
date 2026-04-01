@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/TricksXTech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=YOUR_REPO&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TricksXTech&repo=TricksXTech&theme=tokyonight"/>
   </a>
 </p>
 
