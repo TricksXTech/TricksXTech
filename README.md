@@ -41,7 +41,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TricksXTech&theme=tokyonight&no-frame=true&column=6"/>
+  <img src="https://stats.vercel.app/api?username=TricksXTech&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
