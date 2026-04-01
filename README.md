@@ -21,6 +21,15 @@
 
 ---
 
+## 🚀 Badges
+![Stars](https://img.shields.io/github/stars/TricksXTech/TricksXTech)
+![Forks](https://img.shields.io/github/forks/TricksXTech/TricksXTech)
+![Issues](https://img.shields.io/github/issues/TricksXTech/TricksXTech)
+![License](https://img.shields.io/github/license/TricksXTech/TricksXTech)
+![Last Commit](https://img.shields.io/github/last-commit/TricksXTech/TricksXTech)
+
+---
+
 ## 💼 Freelance Services
 
 🎯 **I help clients turn ideas into working digital products**
