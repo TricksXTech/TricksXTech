@@ -22,14 +22,14 @@
 ---
 
 ## 🚀 Updates
-![Stars](https://img.shields.io/github/stars/TricksXTech/TricksXTech)
-![Forks](https://img.shields.io/github/forks/TricksXTech/TricksXTech)
-![Issues](https://img.shields.io/github/issues/TricksXTech/TricksXTech)
-![License](https://img.shields.io/github/license/TricksXTech/TricksXTech)
-![Last Commit](https://img.shields.io/github/last-commit/TricksXTech/TricksXTech)
-![Repo Size](https://img.shields.io/github/repo-size/TricksXTech/TricksXTech)
-![Watchers](https://img.shields.io/github/watchers/TricksXTech/TricksXTech)
-![Contributors](https://img.shields.io/github/contributors/TricksXTech/TricksXTech)
+![Stars](https://img.shields.io/github/stars/TricksXTech/TricksXTech?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/TricksXTech/TricksXTech?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/TricksXTech/TricksXTech?style=for-the-badge)
+![License](https://img.shields.io/github/license/TricksXTech/TricksXTech?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/TricksXTech/TricksXTech?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/TricksXTech/TricksXTech?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/TricksXTech/TricksXTech?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/TricksXTech/TricksXTech?style=for-the-badge)
 
 ---
 
