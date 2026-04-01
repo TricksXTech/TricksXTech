@@ -21,12 +21,14 @@
 
 ---
 
-## 🚀 Badges
+## 🚀 Updates
 ![Stars](https://img.shields.io/github/stars/TricksXTech/TricksXTech)
 ![Forks](https://img.shields.io/github/forks/TricksXTech/TricksXTech)
 ![Issues](https://img.shields.io/github/issues/TricksXTech/TricksXTech)
 ![License](https://img.shields.io/github/license/TricksXTech/TricksXTech)
 ![Last Commit](https://img.shields.io/github/last-commit/TricksXTech/TricksXTech)
+![Repo Size](https://img.shields.io/github/repo-size/TricksXTech/TricksXTech)
+![Watchers](https://img.shields.io/github/watchers/TricksXTech/TricksXTech)
 
 ---
 
