@@ -29,6 +29,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/TricksXTech/TricksXTech)
 ![Repo Size](https://img.shields.io/github/repo-size/TricksXTech/TricksXTech)
 ![Watchers](https://img.shields.io/github/watchers/TricksXTech/TricksXTech)
+![Contributors](https://img.shields.io/github/contributors/TricksXTech/TricksXTech)
 
 ---
 
