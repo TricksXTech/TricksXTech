@@ -28,8 +28,8 @@
 # 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TricksXTech&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TricksXTech&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TricksXTech&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TricksXTech&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
