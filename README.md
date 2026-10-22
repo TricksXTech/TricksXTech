@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=TricksXTech&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Blockchain%20Developer&descAlignY=58&descSize=18" alt="TricksXTech banner"/>
+  <img src="assets/banner.svg" alt="TricksXTech banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Usman Raza</h1>
@@ -156,5 +156,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" alt="Footer"/>
+  <img src="assets/footer.svg" alt="Footer" width="100%"/>
 </p>
