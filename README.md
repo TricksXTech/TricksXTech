@@ -71,18 +71,16 @@
 
 ---
 
-## 🏅 GitHub Trophies
+## 📈 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TricksXTech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="49%"/>
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%"/>
 </p>
 
----
-
-## 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TricksXTech&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph"/>
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%"/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%"/>
 </p>
 
 ---
